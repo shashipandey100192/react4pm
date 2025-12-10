@@ -2,6 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import Aboutpage,{Abc} from './About';
 import Contactus from './Contactus';
+import "./style.css";
 
 
 

@@ -11,6 +11,7 @@ function Bootstrappage() {
             <div className='col-12'>
                 <h1 className='bg-danger p-5 '>use of bootstrap page yyyyyyyyyyyyyy</h1>
                 <Button variant="primary">sdfsdfsdfsdf</Button>
+                <h3>this is custom class in tailwindcss</h3>
             </div>
         </div>
     </div>
